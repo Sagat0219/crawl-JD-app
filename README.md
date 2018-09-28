@@ -5,7 +5,7 @@
 python3，mitmproxy,appium,Android模拟器or真机，MongoDB
 
 ## 使用步骤：<br>
-1、启动监听
-  mitmdump -s MitmJD.py<br>
-2、执行UI操作
-  python appiumJD.py<br>
+1、启动监听<br>
+    mitmdump -s MitmJD.py<br>
+2、执行UI操作<br>
+    python appiumJD.py<br>
