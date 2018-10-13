@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+appiumJD.py
+MitmJD.py
+requirements.txt
